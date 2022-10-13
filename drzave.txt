@@ -1,0 +1,3 @@
+Njemacka  Njem.txt
+Engleska  Eng.txt
+Hrvatska  Hrv.txt
