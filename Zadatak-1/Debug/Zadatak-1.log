@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\JosipArambašić\source\repos\Zadatak-1\Zadatak-1\Source.c(120,13): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'double *'
+C:\Users\JosipArambašić\source\repos\Zadatak-1\Zadatak-1\Source.c(121,14): warning C4013: 'UnesiUListu' undefined; assuming extern returning int
+C:\Users\JosipArambašić\source\repos\Zadatak-1\Zadatak-1\Source.c(158,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Zadatak-1.vcxproj -> C:\Users\JosipArambašić\source\repos\Zadatak-1\Debug\Zadatak-1.exe
