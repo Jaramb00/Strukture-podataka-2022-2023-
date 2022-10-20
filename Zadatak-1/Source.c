@@ -52,7 +52,7 @@ int main() {
 	OpenFile_ScanAll(lista_studenata, datoteka);
 
 	Ispis(lista_studenata);
-	BrisiMemoriju(position p);
+	BrisiMemoriju(lista_studenata);
 
 
 	return 0;
