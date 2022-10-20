@@ -19,6 +19,7 @@ typedef struct _Lista{
 position Inicialisation(position p);
 int OpenFile_CountStudents(char* ime_dat);
 int OpenFile_ScanAll(position p, char* ime_dat);
+int UnesiUListu(position p, char* ime, char* prezime, double bodovi);
 double RelativniBodovi(double x, double y);
 int Ispis(position p);
 double pronadiMaxBodove(position p);
@@ -51,7 +52,7 @@ int main() {
 	OpenFile_ScanAll(lista_studenata, datoteka);
 
 	Ispis(lista_studenata);
-	int BrisiMemoriju(position p);
+	BrisiMemoriju(position p);
 
 
 	return 0;
