@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Tomic\source\repos\cetvrti\cetvrti\Source.c(140,15): warning C4013: 'strlen' undefined; assuming extern returning int
+  cetvrti.vcxproj -> C:\Users\Tomic\source\repos\cetvrti\Debug\cetvrti.exe
