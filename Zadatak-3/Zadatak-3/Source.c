@@ -82,7 +82,7 @@ int main() {
 			UnesiUDatoteku(h);
 			break;
 		case 9:
-			printf("Sortirali ste sad i nikad viöe\n");
+			printf("Sortirali ste sad i nikad vi≈°e\n");
 			SortirajListuGlupo(h);
 			break;
 		case 10:
@@ -399,7 +399,7 @@ int ProcitajteIzDatoteke(Position head) {
 	}
 	while (!feof(f)) {
 
-		fscanf(f, " %s %s %d\n", ime, prezime, godrod);
+		fscanf(f, " %s %s %d", ime, prezime, godrod);
 		UnesiUListu(head, ime, prezime, godrod);
 
 	}
