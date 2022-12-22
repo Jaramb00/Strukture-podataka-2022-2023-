@@ -286,7 +286,7 @@ int PrintCurrentLevel(Pozicija root, int level) {
 	}
 
 
-	Pozicija PronadiEl(int element, Pozicija root) {
+Pozicija PronadiEl(int element, Pozicija root) {
 
 		Pozicija current = NULL;
 		current = root;
