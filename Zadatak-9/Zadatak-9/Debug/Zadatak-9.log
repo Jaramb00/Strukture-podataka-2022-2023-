@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\JosipArambašić\source\repos\Zadatak-9\Zadatak-9\Source.c(100,9): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\JosipArambašić\source\repos\Zadatak-9\Zadatak-9\Source.c(179): warning C4715: 'InOrderToList': not all control paths return a value
+C:\Users\JosipArambašić\source\repos\Zadatak-9\Zadatak-9\Source.c(203): warning C4716: 'PrintList': must return a value
+C:\Users\JosipArambašić\source\repos\Zadatak-9\Zadatak-9\Source.c(211): warning C4716: 'DeleteAfter': must return a value
+  Zadatak-9.vcxproj -> C:\Users\JosipArambašić\source\repos\Zadatak-9\Debug\Zadatak-9.exe
