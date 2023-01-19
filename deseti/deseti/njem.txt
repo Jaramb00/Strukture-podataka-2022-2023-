@@ -1,0 +1,3 @@
+berlin 3500000
+dortmund 580000
+hamburg 1700000

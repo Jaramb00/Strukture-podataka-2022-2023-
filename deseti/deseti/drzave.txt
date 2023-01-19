@@ -1,0 +1,3 @@
+hrvatska hrv.txt
+brazil bra.txt
+njemacka njem.txt

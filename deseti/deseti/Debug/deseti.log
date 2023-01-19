@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Tomic\source\repos\deseti\deseti\Source.c(67,17): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Tomic\source\repos\deseti\deseti\Source.c(252,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  deseti.vcxproj -> C:\Users\Tomic\source\repos\deseti\Debug\deseti.exe

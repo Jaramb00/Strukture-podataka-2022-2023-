@@ -1,0 +1,2 @@
+brasilia 2500000
+manaus 2000000
